@@ -1,4 +1,4 @@
-# Pop Music Through the Ages: A CNN Model of Spectrograms
+## Pop Music Through the Ages: A CNN Model of Spectrograms
 
 Using a database of mp3s from the Billboard Top 100 charts from 1955 to the present day, I created a model that classified pop songs by decade.  This model used a convolutional neural network trained on the spectrograms obtained from a 5 second clip from the middle of each song.  This model correctly identified the decade of 45% of the songs and correctly identified within one decade of 88% of the songs.  From this model, I was able to make many interesting observations about which decade’s music was the most distinctive, which songs were ahead of their time or reminiscent of earlier times, and which songs were most emblematic of their era.
 
